@@ -1,0 +1,15 @@
+C:\Users\55519\Desktop\Repositorios\Atividades-Extracurriculares\Cadastro de carros c#\bin\Debug\net7.0\Cadastro de carros c#.exe
+C:\Users\55519\Desktop\Repositorios\Atividades-Extracurriculares\Cadastro de carros c#\bin\Debug\net7.0\Cadastro de carros c#.deps.json
+C:\Users\55519\Desktop\Repositorios\Atividades-Extracurriculares\Cadastro de carros c#\bin\Debug\net7.0\Cadastro de carros c#.runtimeconfig.json
+C:\Users\55519\Desktop\Repositorios\Atividades-Extracurriculares\Cadastro de carros c#\bin\Debug\net7.0\Cadastro de carros c#.dll
+C:\Users\55519\Desktop\Repositorios\Atividades-Extracurriculares\Cadastro de carros c#\bin\Debug\net7.0\Cadastro de carros c#.pdb
+C:\Users\55519\Desktop\Repositorios\Atividades-Extracurriculares\Cadastro de carros c#\obj\Debug\net7.0\Cadastro de carros c#.csproj.AssemblyReference.cache
+C:\Users\55519\Desktop\Repositorios\Atividades-Extracurriculares\Cadastro de carros c#\obj\Debug\net7.0\Cadastro de carros c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55519\Desktop\Repositorios\Atividades-Extracurriculares\Cadastro de carros c#\obj\Debug\net7.0\Cadastro de carros c#.AssemblyInfoInputs.cache
+C:\Users\55519\Desktop\Repositorios\Atividades-Extracurriculares\Cadastro de carros c#\obj\Debug\net7.0\Cadastro de carros c#.AssemblyInfo.cs
+C:\Users\55519\Desktop\Repositorios\Atividades-Extracurriculares\Cadastro de carros c#\obj\Debug\net7.0\Cadastro de carros c#.csproj.CoreCompileInputs.cache
+C:\Users\55519\Desktop\Repositorios\Atividades-Extracurriculares\Cadastro de carros c#\obj\Debug\net7.0\Cadastro de carros c#.dll
+C:\Users\55519\Desktop\Repositorios\Atividades-Extracurriculares\Cadastro de carros c#\obj\Debug\net7.0\refint\Cadastro de carros c#.dll
+C:\Users\55519\Desktop\Repositorios\Atividades-Extracurriculares\Cadastro de carros c#\obj\Debug\net7.0\Cadastro de carros c#.pdb
+C:\Users\55519\Desktop\Repositorios\Atividades-Extracurriculares\Cadastro de carros c#\obj\Debug\net7.0\Cadastro de carros c#.genruntimeconfig.cache
+C:\Users\55519\Desktop\Repositorios\Atividades-Extracurriculares\Cadastro de carros c#\obj\Debug\net7.0\ref\Cadastro de carros c#.dll

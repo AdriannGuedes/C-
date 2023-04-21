@@ -1,0 +1,15 @@
+C:\Users\55519\Desktop\Repositorios\Atividades-Extracurriculares\Jogo da Velha C#\bin\Debug\net7.0\Jogo da Velha C#.exe
+C:\Users\55519\Desktop\Repositorios\Atividades-Extracurriculares\Jogo da Velha C#\bin\Debug\net7.0\Jogo da Velha C#.deps.json
+C:\Users\55519\Desktop\Repositorios\Atividades-Extracurriculares\Jogo da Velha C#\bin\Debug\net7.0\Jogo da Velha C#.runtimeconfig.json
+C:\Users\55519\Desktop\Repositorios\Atividades-Extracurriculares\Jogo da Velha C#\bin\Debug\net7.0\Jogo da Velha C#.dll
+C:\Users\55519\Desktop\Repositorios\Atividades-Extracurriculares\Jogo da Velha C#\bin\Debug\net7.0\Jogo da Velha C#.pdb
+C:\Users\55519\Desktop\Repositorios\Atividades-Extracurriculares\Jogo da Velha C#\obj\Debug\net7.0\Jogo da Velha C#.csproj.AssemblyReference.cache
+C:\Users\55519\Desktop\Repositorios\Atividades-Extracurriculares\Jogo da Velha C#\obj\Debug\net7.0\Jogo da Velha C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55519\Desktop\Repositorios\Atividades-Extracurriculares\Jogo da Velha C#\obj\Debug\net7.0\Jogo da Velha C#.AssemblyInfoInputs.cache
+C:\Users\55519\Desktop\Repositorios\Atividades-Extracurriculares\Jogo da Velha C#\obj\Debug\net7.0\Jogo da Velha C#.AssemblyInfo.cs
+C:\Users\55519\Desktop\Repositorios\Atividades-Extracurriculares\Jogo da Velha C#\obj\Debug\net7.0\Jogo da Velha C#.csproj.CoreCompileInputs.cache
+C:\Users\55519\Desktop\Repositorios\Atividades-Extracurriculares\Jogo da Velha C#\obj\Debug\net7.0\Jogo da Velha C#.dll
+C:\Users\55519\Desktop\Repositorios\Atividades-Extracurriculares\Jogo da Velha C#\obj\Debug\net7.0\refint\Jogo da Velha C#.dll
+C:\Users\55519\Desktop\Repositorios\Atividades-Extracurriculares\Jogo da Velha C#\obj\Debug\net7.0\Jogo da Velha C#.pdb
+C:\Users\55519\Desktop\Repositorios\Atividades-Extracurriculares\Jogo da Velha C#\obj\Debug\net7.0\Jogo da Velha C#.genruntimeconfig.cache
+C:\Users\55519\Desktop\Repositorios\Atividades-Extracurriculares\Jogo da Velha C#\obj\Debug\net7.0\ref\Jogo da Velha C#.dll
