@@ -1,0 +1,15 @@
+C:\Users\55519\Desktop\Repositorios\C-\Jogo Adivinhação\bin\Debug\net7.0\Jogo Adivinhação.exe
+C:\Users\55519\Desktop\Repositorios\C-\Jogo Adivinhação\bin\Debug\net7.0\Jogo Adivinhação.deps.json
+C:\Users\55519\Desktop\Repositorios\C-\Jogo Adivinhação\bin\Debug\net7.0\Jogo Adivinhação.runtimeconfig.json
+C:\Users\55519\Desktop\Repositorios\C-\Jogo Adivinhação\bin\Debug\net7.0\Jogo Adivinhação.dll
+C:\Users\55519\Desktop\Repositorios\C-\Jogo Adivinhação\bin\Debug\net7.0\Jogo Adivinhação.pdb
+C:\Users\55519\Desktop\Repositorios\C-\Jogo Adivinhação\obj\Debug\net7.0\Jogo Adivinhação.csproj.AssemblyReference.cache
+C:\Users\55519\Desktop\Repositorios\C-\Jogo Adivinhação\obj\Debug\net7.0\Jogo Adivinhação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55519\Desktop\Repositorios\C-\Jogo Adivinhação\obj\Debug\net7.0\Jogo Adivinhação.AssemblyInfoInputs.cache
+C:\Users\55519\Desktop\Repositorios\C-\Jogo Adivinhação\obj\Debug\net7.0\Jogo Adivinhação.AssemblyInfo.cs
+C:\Users\55519\Desktop\Repositorios\C-\Jogo Adivinhação\obj\Debug\net7.0\Jogo Adivinhação.csproj.CoreCompileInputs.cache
+C:\Users\55519\Desktop\Repositorios\C-\Jogo Adivinhação\obj\Debug\net7.0\Jogo Adivinhação.dll
+C:\Users\55519\Desktop\Repositorios\C-\Jogo Adivinhação\obj\Debug\net7.0\refint\Jogo Adivinhação.dll
+C:\Users\55519\Desktop\Repositorios\C-\Jogo Adivinhação\obj\Debug\net7.0\Jogo Adivinhação.pdb
+C:\Users\55519\Desktop\Repositorios\C-\Jogo Adivinhação\obj\Debug\net7.0\Jogo Adivinhação.genruntimeconfig.cache
+C:\Users\55519\Desktop\Repositorios\C-\Jogo Adivinhação\obj\Debug\net7.0\ref\Jogo Adivinhação.dll
